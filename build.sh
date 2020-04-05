@@ -1,2 +1,2 @@
-echo hello
+echo another good
 exit 0
