@@ -1,2 +1,2 @@
-echo another good
-exit 0
+echo first bad
+exit 1
