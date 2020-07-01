@@ -1,2 +1,2 @@
-echo first bad
+echo second bad
 exit 1
